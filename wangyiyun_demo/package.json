@@ -16,7 +16,7 @@
     "postcss-px-to-viewport": "^1.1.1",
     "postcss-viewport-units": "^0.1.6",
     "postcss-write-svg": "^3.0.1",
-    "qs": "^6.9.4",
+    "qs": "^6.5.3",
     "vue": "^3.0.0-beta.1",
     "vue-router": "^4.0.0-alpha.5",
     "vuex": "^4.0.0-alpha.1"
